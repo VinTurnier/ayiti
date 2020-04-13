@@ -31,5 +31,5 @@ class Location:
 
 if __name__ == "__main__":
 
-    a = Location(arrondissement="Petion-Ville")
+    a = Location(arrondissement="Pétion-Ville")
     print(a.info())
